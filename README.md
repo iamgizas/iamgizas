@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🧑‍💻 **Software Engineer** specializing in Java, React-Native, and React.
-- 📱 Mobile and Back-End Developer at **KDT Informatica**.
+- 📱 Mobile and Back-End Developer
 - 🎂 20 years old and passionate about building scalable, efficient solutions.
 - 🤝 Actively contributing to open-source and always eager to learn new technologies.
 
