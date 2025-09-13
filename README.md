@@ -1,5 +1,4 @@
-<!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hi,%20I'm%20Gizas!&fontSize=35&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hi,%20I'm%20GZN%20(João)!&fontSize=35&fontColor=fff&animation=twinkling"/>
 
 <p align="center">
   <b>Back-End Developer passionate about technology! 🚀</b><br>
@@ -10,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Back-End developer** focused on building robust and scalable solutions.<br>
+I'm **GZN (João)**, a Back-End developer focused on building robust and scalable solutions.<br>
 I love challenges, learning new things, and creating applications that make a real impact!
 
 ---
